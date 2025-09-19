@@ -12,7 +12,7 @@ Previously, I earned a Bachelor of Engineering degree from Xidian University and
 You can find my CV [here](https://drive.google.com/file/d/1SLrocl8O0P6M5c_2K5NZ5FKz0zB6CSQ3/view?usp=sharing).
   
 My prior research area: **Sentiment Analysis** and **Information Extraction**. Now, my research interest is in on **LLM post-training** and **agentic AI**.
-------
+
 Education
 ------
 **Bachelor, Xidian University** (2015 - 2019) \
@@ -40,12 +40,13 @@ Baskin School of Engineering.
 * Major: Computer Sciences
 * Research Interests: LLM post-training and agentic AI.
 * Advisor: [Prof. Chenguang Wang](https://cgraywang.github.io/)
-------
+
+
 Publications
 ======
 1. [Chen Y, Zhang Z, Zhou G, et al. Span-based dual-decoder framework for aspect sentiment triplet extraction[J]. Neurocomputing, 2022, 492: 211-221.](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003897)
 2. [Chen Y, Keming C, Sun X, et al. A Span-level Bidirectional Network for Aspect Sentiment Triplet Extraction[C]//Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. 2022: 4300-4309.](https://aclanthology.org/2022.emnlp-main.289.pdf)
-------
+
 Works
 ======
 **Software Engineer Internship, Xizhi AI Education.** (2022 - 2024) \
