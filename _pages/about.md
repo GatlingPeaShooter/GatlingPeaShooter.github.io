@@ -49,8 +49,8 @@ Publications
 
 Works
 ======
-**Software Engineer Internship, Xizhi AI Education.** (2022 - 2024) \
-* Scope: Visually Rich Document Information Extraction. \
+**Software Engineer Internship, Xizhi AI Education.** (2022 - 2024) 
+* Scope: Visually Rich Document Information Extraction. 
 
 Xizhi AI Education is a company dedicated to the development of automated problem solving models, famous for develop Eva Tutor App. I was responsible for extracting certain important information from the user's questions to use as input for the solution model. 
 After the emergence of LLMs, I was responsible for experiments with prompt and locally deploy of some small LLMs.
