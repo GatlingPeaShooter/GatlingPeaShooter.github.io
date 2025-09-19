@@ -14,7 +14,7 @@ You can find my CV [here](https://drive.google.com/file/d/1SLrocl8O0P6M5c_2K5NZ5
 My prior research area: **Sentiment Analysis** and **Information Extraction**. Now, my research interest is in on **LLM post-training** and **agentic AI**.
 
 Education
-------
+======
 **Bachelor, Xidian University** (2015 - 2019) \
 School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
 * Major: Space Science and Technology
