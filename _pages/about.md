@@ -37,6 +37,7 @@ Aerospace Information Research Institute.
 * Honor: 
     * The second place in the track of CCKS link prediction in 2021.
     * Second prize in the iFLYTEK AI multilingual text mining competition in 2021.
+
 ------
 **Bachelor, Xidian University** (2015 - 2019) \
 School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
@@ -55,5 +56,4 @@ Works
 **Software Engineer Internship, Xizhi AI Education.** (2022 - 2024) 
 * Scope: Visually Rich Document Information Extraction. 
 
-Xizhi AI Education is a company dedicated to the development of automated problem solving models, famous for develop Eva Tutor App. I was responsible for extracting certain important information from the user's questions to use as input for the solution model. 
-After the emergence of LLMs, I was responsible for experiments with prompt and locally deploy of some small LLMs.
+  Xizhi AI Education is a company dedicated to the development of automated problem solving models, famous for develop Eva Tutor App. I was responsible for extracting certain important information from the user's questions to use as input for the solution model. After the emergence of LLMs, I was responsible for experiments with prompt and locally deploy of some small LLMs.
