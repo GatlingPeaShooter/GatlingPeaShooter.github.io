@@ -15,17 +15,11 @@ My prior research area: **Sentiment Analysis** and **Information Extraction**. N
 
 Education
 ======
-**Bachelor, Xidian University** (2015 - 2019) \
-School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
-* Major: Space Science and Technology
-* Honor: Second Prize of China-Russia Universities Small Satellite Innovation Design Competition
-
-------
-**Master, University of Chinese Academy of Sciences** (2019 - 2022) \
-Aerospace Information Research Institute.
-* Major: Signals and Information Processing
-* Research Interests: Natural Language Processing, mainly in Information Extraction
-* Adviser: [Prof. Keming Chen](https://people.ucas.ac.cn/~kmchen)
+**Ph.D, UC Santa Cruz** (2025 - Present) \
+Baskin School of Engineering.
+* Major: Computer Sciences
+* Research Interests: LLM post-training and agentic AI.
+* Advisor: [Prof. Chenguang Wang](https://cgraywang.github.io/)
 
 ------
 **Ph.D, Washington University in St. Louis** (2024 - 2025) \
@@ -35,11 +29,20 @@ McKelvey School of Engineering.
 * Advisor: [Prof. Chenguang Wang](https://cgraywang.github.io/)
 
 ------
-**Ph.D, UC Santa Cruz** (2025 - Present) \
-Baskin School of Engineering.
-* Major: Computer Sciences
-* Research Interests: LLM post-training and agentic AI.
-* Advisor: [Prof. Chenguang Wang](https://cgraywang.github.io/)
+**Master, University of Chinese Academy of Sciences** (2019 - 2022) \
+Aerospace Information Research Institute.
+* Major: Signals and Information Processing
+* Research Interests: Natural Language Processing, mainly in Information Extraction
+* Adviser: [Prof. Keming Chen](https://people.ucas.ac.cn/~kmchen)
+* Honor: 
+    * The second place in the track of CCKS link prediction in 2021.
+    * Second prize in the iFLYTEK AI multilingual text mining competition in 2021.
+------
+**Bachelor, Xidian University** (2015 - 2019) \
+School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
+* Major: Space Science and Technology
+* Honor:
+    * Second Prize of China-Russia Universities Small Satellite Innovation Design Competition
 
 
 Publications
