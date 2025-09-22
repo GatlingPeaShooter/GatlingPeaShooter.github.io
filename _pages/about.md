@@ -34,15 +34,21 @@ Aerospace Information Research Institute.
 * Major: Signals and Information Processing
 * Research Interests: Natural Language Processing, mainly in Information Extraction
 * Advisor: [Prof. Keming Chen](https://people.ucas.ac.cn/~kmchen)
-* Honor: 
-    * The second place in the track of CCKS link prediction in 2021.
-    * Second prize in the iFLYTEK AI multilingual text mining competition in 2021.
+
+[//]: # (* Honor: )
+
+[//]: # (    * The second place in the track of CCKS link prediction in 2021.)
+
+[//]: # (    * Second prize in the iFLYTEK AI multilingual text mining competition in 2021.)
+
 ------
 **Bachelor, Xidian University** (2015 - 2019) \
 School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
 * Major: Space Science and Technology
-* Honor:
-    * Second Prize of China-Russia Universities Small Satellite Innovation Design Competition
+
+[//]: # (* Honor:)
+
+[//]: # (    * Second Prize of China-Russia Universities Small Satellite Innovation Design Competition)
 
 
 Publications
@@ -53,8 +59,8 @@ Publications
 4. Chen Y, Zhang Z, Zhou G, et al. _**Span-based dual-decoder framework for aspect sentiment triplet extraction**_[J]. Neurocomputing, 2022, 492: 211-221. [Link Here](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003897)
 
 
-# Open Source Projects
-
+Open Source Projects
+======
 **rLLM, Reinforcement Learning for Language Agents.** Key Contributor
 * Has earned 4,200 GitHub stars.
 * [GitHub: https://github.com/rllm-org/rllm](https://github.com/rllm-org/rllm)
