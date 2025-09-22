@@ -11,7 +11,7 @@ Currently, I am a second-year PhD student. studying computer science at UC Santa
 Previously, I earned a Bachelor of Engineering degree from Xidian University and a Master of Engineering degree in Signal and Information Systems from the University of Chinese Academy of Sciences.
 You can find my CV [here](https://drive.google.com/file/d/1SLrocl8O0P6M5c_2K5NZ5FKz0zB6CSQ3/view?usp=sharing).
   
-My prior research area: **Sentiment Analysis** and **Information Extraction**. Now, my research interest is in on **LLM post-training** and **agentic AI**.
+My research interest is in on **LLM post-training** and **agentic AI**.
 
 Education
 ======
@@ -33,11 +33,10 @@ McKelvey School of Engineering.
 Aerospace Information Research Institute.
 * Major: Signals and Information Processing
 * Research Interests: Natural Language Processing, mainly in Information Extraction
-* Adviser: [Prof. Keming Chen](https://people.ucas.ac.cn/~kmchen)
+* Advisor: [Prof. Keming Chen](https://people.ucas.ac.cn/~kmchen)
 * Honor: 
     * The second place in the track of CCKS link prediction in 2021.
     * Second prize in the iFLYTEK AI multilingual text mining competition in 2021.
-
 ------
 **Bachelor, Xidian University** (2015 - 2019) \
 School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
@@ -48,12 +47,22 @@ School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
 
 Publications
 ======
-1. [Chen Y, Zhang Z, Zhou G, et al. Span-based dual-decoder framework for aspect sentiment triplet extraction[J]. Neurocomputing, 2022, 492: 211-221.](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003897)
-2. [Chen Y, Keming C, Sun X, et al. A Span-level Bidirectional Network for Aspect Sentiment Triplet Extraction[C]//Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. 2022: 4300-4309.](https://aclanthology.org/2022.emnlp-main.289.pdf)
+1. Ye Yuan, Junyu Luo, Guancheng Wan, Jinsheng Huang, Chengwu Liu, Junwei Yang, Yifang Qin, Zhiping Xiao, QingqingLong, Meng Xiao, Yiqiao Jin, Jianhong Tu, **Yuqi Chen**, et al. **_A Comprehensive Survey of Evaluating Multimodal Foundation Models: Hierarchical Perspective and Extensive Applications._** [Preprint]
+2. Y Potter, Z Wang, N Crispino, A Xiong, K Montgomery, F Pinto, E Chang, **Y Chen**, et al. **_VMDT: Decoding the Trustworthiness of Video Foundation Models._** Neural Information Processing Systems, 2025. [Link Here](https://kylemontgomery1.github.io/assets/pdf/vmdt.pdf)
+3. Chen Y, Keming C, Sun X, et al. _**A Span-level Bidirectional Network for Aspect Sentiment Triplet Extraction**_[C].Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. 2022: 4300-4309. [Link Here](https://aclanthology.org/2022.emnlp-main.289.pdf)
+4. Chen Y, Zhang Z, Zhou G, et al. _**Span-based dual-decoder framework for aspect sentiment triplet extraction**_[J]. Neurocomputing, 2022, 492: 211-221. [Link Here](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003897)
+
+
+# Open Source Projects
+
+**rLLM, Reinforcement Learning for Language Agents.** Key Contributor
+* Has earned 4,200 GitHub stars.
+* [GitHub: https://github.com/rllm-org/rllm](https://github.com/rllm-org/rllm)
 
 Works
 ======
 **Software Engineer Internship, Xizhi AI Education.** (2022 - 2024) 
 * Scope: Visually Rich Document Information Extraction. 
 
-  Xizhi AI Education is a company dedicated to the development of automated problem solving models, famous for develop Eva Tutor App. I was responsible for extracting certain important information from the user's questions to use as input for the solution model. After the emergence of LLMs, I was responsible for experiments with prompt and locally deploy of some small LLMs.
+Xizhi AI Education is a company dedicated to the development of automated problem solving models, famous for develop Eva Tutor App. I was responsible for extracting certain important information from the user's questions to use as input for the solution model. 
+After the emergence of LLMs, I was responsible for experiments with prompt and locally deploy of some small LLMs.
