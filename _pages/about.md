@@ -53,10 +53,10 @@ School of Aerospace Scienceand Technology, TsienHsueshen experimental class.
 
 Publications
 ======
-1. Y Potter, Z Wang, N Crispino, A Xiong, K Montgomery, F Pinto, E Chang, **Y Chen**, et al. **_VMDT: Decoding the Trustworthiness of Video Foundation Models._** Neural Information Processing Systems, 2025. [Paper](https://kylemontgomery1.github.io/assets/pdf/vmdt.pdf)
-2. Ye Yuan, Junyu Luo, Guancheng Wan, Jinsheng Huang, Chengwu Liu, Junwei Yang, Yifang Qin, Zhiping Xiao, QingqingLong, Meng Xiao, Yiqiao Jin, Jianhong Tu, **Yuqi Chen**, et al. **_A Comprehensive Survey of Evaluating Multimodal Foundation Models: Hierarchical Perspective and Extensive Applications._** [Preprint, 2025]
-3. Chen Y, Keming C, Sun X, et al. _**A Span-level Bidirectional Network for Aspect Sentiment Triplet Extraction**_[C].Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. 2022: 4300-4309. [Paper](https://aclanthology.org/2022.emnlp-main.289.pdf)
-4. Chen Y, Zhang Z, Zhou G, et al. _**Span-based dual-decoder framework for aspect sentiment triplet extraction**_[J]. Neurocomputing, 2022, 492: 211-221. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003897)
+1. Y Potter, Z Wang, N Crispino, A Xiong, K Montgomery, F Pinto, E Chang, **Y Chen**, and C Christodoulopoulos, M Ziyadi, R Gupta, C Wang, B Li, D Song. **_VMDT: Decoding the Trustworthiness of Video Foundation Models._** Neural Information Processing Systems, 2025. [Paper](https://kylemontgomery1.github.io/assets/pdf/vmdt.pdf)
+2. Ye Yuan, Junyu Luo, Guancheng Wan, Jinsheng Huang, Chengwu Liu, Junwei Yang, Yifang Qin, Zhiping Xiao, QingqingLong, Meng Xiao, Yiqiao Jin, Jianhong Tu, **Yuqi Chen**, Wei Ju, Zhongwei Wan, Yusheng Zhao, Xiao Luo, Yiwei Fu, Yizhou Sun, Wei Wang, Chenguang Wang, Ming Zhang. **_A Comprehensive Survey of Evaluating Multimodal Foundation Models: Hierarchical Perspective and Extensive Applications._** [Preprint, 2025]
+3. **Yuqi Chen**, Zequn Zhang, Guangyao Zhou,Xian Sun, Keming Chen.. _**A Span-level Bidirectional Network for Aspect Sentiment Triplet Extraction**_[C].Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. 2022: 4300-4309. [Paper](https://aclanthology.org/2022.emnlp-main.289.pdf)
+4. **Yuqi Chen**, Chen Keming, Xian Sun, Zequn Zhang. _**Span-based dual-decoder framework for aspect sentiment triplet extraction**_[J]. Neurocomputing, 2022, 492: 211-221. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003897)
 
 
 Open Source Projects
